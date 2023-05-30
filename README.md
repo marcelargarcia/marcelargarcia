@@ -1,7 +1,12 @@
-Hi
+# Hi, I'm Marcela 👋🏾 👩🏾‍💻
 
-<img src="https://github.com/marcelargarcia/marcelargarcia/Minha-apresentacao.gif" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a s
+<img src="https://github.com/marcelargarcia/marcelargarcia/blob/main/Minha-apresentacao.gif?raw=true" alt="Marcela Garcia gif">
+
+I'm a professional with 4+ years of experience in Data and Automation passionate about Software development and Engineering area.
+
+## Find me around the web 🌎: 
+- Portfolio
+- <a href="https://www.linkedin.com/in/marcelargarcia/">LinkedIn</a> 💼
 
 <!--
 **marcelargarcia/marcelargarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
