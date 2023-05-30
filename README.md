@@ -1,7 +1,7 @@
 Hi
 
-## Teste <a href="https://github.com/marcelargarcia"><img align="left" width="300" height="300" src="https://github.com/marcelargarcia/marcelargarcia/Minha-apresentacao.gif"></a>
-
+<img src="https://github.com/marcelargarcia/marcelargarcia/Minha-apresentacao.gif" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+I'm a s
 
 <!--
 **marcelargarcia/marcelargarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
