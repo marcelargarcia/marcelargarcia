@@ -1,4 +1,7 @@
 Hi
+
+<a href="https://github.com/marcelargarcia"><img align="left" width="150" height="150" src="https://github.com/marcelargarcia/marcelargarcia#:~:text=Minha%20apresentac%CC%A7a%CC%83o.gif?raw=true"></a>
+
 <!--
 **marcelargarcia/marcelargarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
