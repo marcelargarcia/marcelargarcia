@@ -5,7 +5,7 @@
 I'm a professional with 4+ years of experience in Data and Automation passionate about Software development and Engineering area.
 
 ## Find me around the web 🌎: 
-- <a href="https://marcelargarcia.github.io/index.html">Portfolio</a>
+- <a href="https://marcelargarcia.github.io/index.html">Portfolio</a> 👩🏾‍💻
 - <a href="https://www.linkedin.com/in/marcelargarcia/">LinkedIn</a> 💼
 
 <!--
