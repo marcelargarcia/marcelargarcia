@@ -1,4 +1,4 @@
-# Hi, I'm Marcela 👋🏾 👩🏾‍💻
+# Hi, I'm Marcela 👋🏽 🇧🇷 👩🏾‍💻
 
 <img src="https://github.com/marcelargarcia/marcelargarcia/blob/main/Minha-apresentacao.gif?raw=true" alt="Marcela Garcia gif">
 
