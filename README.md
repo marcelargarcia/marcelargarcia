@@ -1,8 +1,9 @@
 # Hi, I'm Marcela 👋🏽 🇧🇷 👩🏾‍💻
-
+<!--
 <img src="https://github.com/marcelargarcia/marcelargarcia/blob/main/Minha-apresentacao.gif?raw=true" alt="Marcela Garcia gif">
+!-->
 
-I'm a professional with 4+ years of experience in Data and Automation passionate about Software development and Engineering area.
+I'm a professional with 5+ years of experience in Data Engineering / BI Engineering.
 
 ## Find me 🌎: 
 - <a href="https://marcelargarcia.github.io/index.html">Portfolio</a> 👩🏾‍💻
